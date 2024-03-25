@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.img1{
+  height: 500px;
+  width: 600px;
+
+}
+body{
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtdof4akJeE6rD7SrkcAyTrieRHHy3lA5Ot9-92P7pz4iWOsFIBpQWaih6U15VB96ZsRD51SpGS8iWEeQUK1utwF3RyB2nDB6OlxkKHvqGgzna-4_8EYVgbcFtuXO8I3b1qbk8j0UjKYo/s1600/theocbaitshopinsidesetstairs.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ text-align: center;
+
+
+}
+button{
+  width:200px;
+  height:50px;
+  margin-top: 20px;
+}
+p{
+   color:darkblue;
+   border: 2px solid darkblue;
+  background-color: lightskyblue;
+}
+
+
+
+h1{
+  color:lightskyblue;
+}
+.marissa{
+  display:none;
+  height: 500px;
+   width: 600px;
+}
+.ryan{
+  display:none;
+  height: 500px;
+  width: 600px;
+}
+.seth{
+  display:none;
+  height: 500px;
+  width: 600px;
+}
+.summer{
+  display:none;
+  height: 500px;
+  width: 600px;
+}
+.ryana{
+  display:none;
+}
+.marissac{
+  display:none;
+}
+.summerr{
+  display:none;
+}
+.sethc{
+  display:none;
+}
